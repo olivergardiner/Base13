@@ -25,10 +25,10 @@ Component list
 |C9|Polyester Capacitor|4.7nF|
 |C10|Polyester Capacitor|10nF|
 |J1|Switched 5.5mm Barrel Jack||
-|LED1|LED|LED 5MM RED|
-|Q1|Ge PNP RD5||
+|LED1|5mm LED||
+|Q1|OC44||
 |U1|ICL7660S||
 |U2|ICL7660S||
-|U3|79xx||
-|U4|Dual Op Amp||
+|U3|7909 TO220||
+|U4|RC4558||
 |VR1|Potentiometer|A100K|
